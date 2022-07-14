@@ -11,6 +11,6 @@ public class HelloController {
 
     @GetMapping("bye")
     public String bye(){
-        return "bye x2 spring boot </3 ";
+        return "bye x2 spring boot </3  14/07/22";
     }
 }
